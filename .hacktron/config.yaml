@@ -1,0 +1,12 @@
+# .hacktron/config.yaml
+# Repo: ElectrovoltSec/HackBench
+# Org: Hacktron
+#
+# Generated to preserve your current covered-branch selection
+# ("main") as PR scanning moves from the
+# dashboard UI into this file. Commit this to the repository's
+# default branch at .hacktron/config.yaml.
+
+include:
+  branches:
+    - "main"
